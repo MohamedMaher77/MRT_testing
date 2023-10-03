@@ -1,0 +1,6 @@
+There are 2 ways to collaborate with others:-
+  
+1. Version Control Systems:
+Version control systems like Git provide a powerful way to collaborate on code and track changes made by multiple contributors.
+2. Online Collaboration Tools:
+Project management software and online collaboration tools provide a centralized platform for teams to collaborate on projects, share information, and track progress.  
